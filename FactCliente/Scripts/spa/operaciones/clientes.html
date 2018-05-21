@@ -1,0 +1,27 @@
+﻿<div>
+    <div class="jumbotron">
+        <h1>Clientes</h1>
+    </div>    
+    <table class="table">
+        <thead>
+            <tr>
+                <th>N°-Cliente</th>
+                <th>Nombres</th>
+                <th>Apellidos</th>
+                <th>Cedula</th>
+                <th>Dirección</th>
+                <th>Ver</th>               
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="cliente in clientes">
+                <td>{{cliente.ID}}</td>
+                <td>{{cliente.Nombres}}</td>
+                <td>{{cliente.Apellidos}}</td>
+                <td>{{cliente.Cedula}}</td>
+                <td>{{cliente.Direccion}}</td>  
+                <td><a class="btn btn-primary btn-lg" ng-click="mostrarFacturas(cliente.ID);">Ver Facturas</a></td>              
+            </tr>
+        </tbody>
+    </table>
+</div>

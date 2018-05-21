@@ -1,0 +1,25 @@
+﻿<div>
+    <div class="jumbotron">
+        <h1>Facturas</h1>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>N°-Fact</th>
+                <th>Código Cliente</th>
+                <th>Cliente</th>
+                <th>Fecha</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="factura in facturas">
+                <td>{{factura.ID}}</td>
+                <td>{{factura.ClientesId}}</td>
+                <td>{{factura.Clientes.Nombres}}</td>
+                <td>{{factura.FechaCreacion| date:'dd-MM-yyyy'}}</td>
+                <td><a class="btn btn-primary btn-lg" ng-click="mostrarDetalleFacturas(factura.ID);">Ver Detalle</a></td>              
+            </tr>            
+        </tbody>
+    </table>
+</div>

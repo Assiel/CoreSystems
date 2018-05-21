@@ -1,0 +1,32 @@
+﻿<div>
+    <div class="jumbotron">
+        <h1>Detalle de Factura</h1>
+        <br />
+        <b>N° Fact:</b>{{detalleFacturas[0].FacturasId}}<br />
+        <b>Cliente:</b>{{detalleFacturas[0].Facturas.Clientes.Nombres}}<br />
+        <b>Fecha:</b>{{detalleFacturas[0].Facturas.FechaCreacion | date:'dd-MM-yyyy'}}<br />
+    </div>
+   
+    <table class="table">
+        <thead>
+            <tr>
+                <th>N°-Item</th>
+                <th>Código Producto</th>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="detalle in detalleFacturas">
+                <td>{{$index+1}}</td>
+                <td>{{detalle.Productos.ID}}</td>
+                <td>{{detalle.Productos.Nombre}}</td>
+                <td>{{detalle.Precio}}</td>
+                <td>{{detalle.Cantidad}}</td>
+                <td>{{detalle.Total}}</td>                
+            </tr>
+        </tbody>
+    </table>
+</div>

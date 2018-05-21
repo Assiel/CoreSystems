@@ -1,0 +1,10 @@
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\bin\Debug\Entidades1.dll.config
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\bin\Debug\Entidades1.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\bin\Debug\Entidades1.pdb
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\bin\Debug\EntityFramework.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\bin\Debug\EntityFramework.xml
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\obj\Debug\Entidades1.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Entidades1\obj\Debug\Entidades1.pdb

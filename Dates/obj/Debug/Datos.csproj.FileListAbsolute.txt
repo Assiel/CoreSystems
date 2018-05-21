@@ -1,0 +1,12 @@
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\Dates.dll.config
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\Dates.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\Dates.pdb
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\Entidades1.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\EntityFramework.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\Entidades1.pdb
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\EntityFramework.xml
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\obj\Debug\Dates.dll
+C:\Users\Kiara\Documents\Visual Studio 2015\Projects\CoreSystems\Dates\obj\Debug\Dates.pdb
