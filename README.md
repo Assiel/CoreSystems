@@ -13,5 +13,5 @@ ingresar
  Listo!!! se creeará la base de datos como "FactCliente"
  
  
- 
+Nota: en la Raiz esta el DiagramaEntidadRelacion.PNG
  
